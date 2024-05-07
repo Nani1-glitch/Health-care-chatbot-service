@@ -19,7 +19,7 @@ warnings.warn = warn
 
 # ************************************************ import huggingface load & save as newsave_model *********************
 # from transformers import pipeline
-# PRETRAINED = "raynardj/ner-disease-ncbi-bionlp-bc5cdr-pubmed"
+# PRETRAINED = "HERE"
 # ners = pipeline(task="ner",model=PRETRAINED, tokenizer=PRETRAINED)
 
 
